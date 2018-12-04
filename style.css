@@ -1,0 +1,89 @@
+body { 
+	font-family: 'Amaranth';
+	font-size: 24px;
+	line-height: 1.4cm;
+	background-color: #eeee;
+ }
+
+#container {
+	display: flex;
+ 	width: 100%;
+ 	max-width: 900px;
+ 	margin: 0 auto;
+ 	float: center;
+ 	box-sizing: border-box;
+ }
+
+
+}
+ aside {
+ 	float: right;
+ 	width: 200px;
+ 	height: 200px;
+ 	border: 1px solid red;
+ }
+
+
+ 	)
+
+h1 {
+	color:white;
+	font-size: 30px;
+}
+
+h2 {
+	color:lightsteelblue;
+}
+
+h3 {
+	color: lightblue;
+	font-size: 24px;
+
+}
+
+header {
+	background-image: url("images/gallery/blogbanner.jpg");
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 24px;
+	height: 400px;	
+	width: 100%;
+}
+
+
+
+
+#main {
+	width: 200px;
+	border-radius: 150px;
+}
+
+img {
+	width: 215px;
+}
+
+section {
+	background-color:white;
+	margin-bottom: 24px;
+	padding:10px;
+	border: 2px dashed steelblue;
+}
+
+
+{
+	box-sizing: border-box;
+}
+
+.box {
+	margin:2px;
+}
+
+
+#gallery {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
